@@ -1,11 +1,11 @@
 {
-    "name": "obijuan/obi-woocommerce-countries",
+    "name": "user/obi-woocommerce-countries",
     "description": "Countries",
     "type": "wordpress-plugin",
-    "license": "GPL2 or Later",
+    "license": "GPL-2 or later",
     "autoload": {
         "psr-4": {
-            "ObiWooCommerceCountries\\": "src"
+            "ObiWooCommerceCountries\\": "src/"
         }
     },
     "authors": [
