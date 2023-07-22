@@ -9,3 +9,10 @@ The countries where most sales are coming from are added to the top of the count
 A demo screenshot:
 
 ![Alt Obi WooCommerce Countries selection of most popular countries by sales](https://obijuan.dev/wp-content/uploads/2023/07/obi-woocommerce-countries.png)
+
+**TODO**
+
+* Fix bug with Alabama being added to the list when United States is selected by default.
+* Fix bug with Veracruz and Estado de Mexico being added to the list when Mexico is selected by default.
+* Clean up the code.
+* Add PHPCS and WPCS.
